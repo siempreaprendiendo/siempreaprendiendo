@@ -8,10 +8,8 @@ I am a Bachelor of Science student in Professional Studies at Brigham Young Univ
 ## Skills and Technologies
 
 ### Technical Skills
-- Technical Writing
-- Technical Illustration
+- Graphic Design
 - CAD Documentation
-- Instruction Manual Development
 - Visual Communication
 - Engineering Documentation
 
@@ -24,6 +22,8 @@ I am a Bachelor of Science student in Professional Studies at Brigham Young Univ
 - Markdown
 
 ### Certifications
+-BYUI Certificate in Graphic Design
+-BYUI Certificate in Computer Aided Design (CAD)
 - Certified SOLIDWORKS Professional (CSWP)
 - Certified SOLIDWORKS Associate (CSWA)
 - Certified SOLIDWORKS Additive Manufacturing Associate
